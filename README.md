@@ -1,4 +1,5 @@
 # HELP
+Manual Actions
 Create a player: game.Players:CreateLocalPlayer(0)
 
 Load your player's character: game.Players.LocalPlayer:LoadCharacter()
