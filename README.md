@@ -29,4 +29,4 @@ A publicly shared server >>IN PARTICULAR<< is very likely dangerous to connect t
 
 You have been warned, be smart and have fun :)!
 
-link: https://drive.google.com/file/d/1FAe0tOs7FNDPLFoni6xYkHJp52sU6wPM/view?usp=sharing
+link: https://drive.google.com/file/d/1rAKauTx6T1d6lBsLTNivFFUbjU8ZZ3-b/view?usp=sharing
