@@ -20,6 +20,9 @@ https://www.microsoft.com/en-us/download/details.aspx?id=26347
 
 (Note: You will need the x86 pack. It may also help to have the x64 pack as well.)
 
+IMPORTANT: 2006
+That is not the real 2006 client, its a remake.
+
 WARNING: DO NOT CONNECT TO UNTRUSTED SERVERS
 This build does support hosting and connecting to servers, but there's a non-zero chance this build has exploitable bugs that can be used for remote code execution on your machine.
 
